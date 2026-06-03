@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+faiss-cpu
+spacy
+pdfplumber
+python-docx
+reportlab
+python-multipart
+requests
+numpy
+scikit-learn
+chromadb
+PyPDF2
+pandas
