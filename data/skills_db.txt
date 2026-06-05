@@ -1,0 +1,27 @@
+python
+javascript
+java
+c++
+sql
+react
+fastapi
+streamlit
+docker
+kubernetes
+aws
+git
+machine learning
+deep learning
+nlp
+tensorflow
+pytorch
+faiss
+spacy
+pandas
+numpy
+scikit-learn
+postgresql
+mongodb
+rest api
+linux
+agile
